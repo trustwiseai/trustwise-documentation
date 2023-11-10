@@ -1,4 +1,4 @@
-### Trustwise Safety Plugin
+### Trustwise Safety Plugin 🦉
 
 Trustwise Safety Plugin is a plugin designed to help you evaluate your Large Language Models (LLMs) RAG pipelines. RAG pipelines can be built using various tools like LlamaIndex, LangChain etc. In this example, we will show how to use this plugin with LlamaIndex.
 

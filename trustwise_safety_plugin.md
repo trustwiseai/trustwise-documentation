@@ -1,7 +1,7 @@
-# Trustwise Safety Plugin Starter Tutorial
+# Trustwise Safety Plugin Starter Tutorial 🦉
 In this starter example, we will show how to log and monitor LLM evaluation metrics using Trustwise Safety Plugin.
 
-## What is Trustwise Safety Plugin?
+## What is Trustwise Safety Plugin? 🦉
 
 Trustwise Safety Plugin is a plugin designed to help you evaluate your Large Language Models (LLMs) RAG pipelines. RAG pipelines can be built using various tools like LlamaIndex, LangChain etc. In this example, we will show how to use this plugin with LlamaIndex.
 
@@ -22,7 +22,7 @@ import os
 os.environ['OPENAI_API_KEY']='OPENAI_API_KEY'
 ```
 
-### Configure the Callback Handler for Trustwise
+### Configure the Callback Handler for Trustwise 🦉
 
 Generate Trustwise API key by going to this [link](http://api.trustwise.ai:8080/github-login)
 
@@ -84,7 +84,7 @@ print(response)
 # Output: VTE, or Venous Thromboembolism, is a condition that can occur in individuals ...
 ```
 
-### Observe and evaluate using Trustwise
+### Observe and evaluate using Trustwise 🦉
 ```python
 from trustwise.functions import Observability
 
